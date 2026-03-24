@@ -24,7 +24,9 @@ Core Requirements
 • The system provides real-time status for orders and delivery partners.
 5. Concurrency & Thread Safety
 • The system is thread-safe and handle all concurrency scenarios (multiple customers and partners acting simultaneously).
+
 Bonus Features
+
 • Notifications: Notify customers and delivery partners (via simulated logs) on order status changes.
 • Ratings: Customers can rate delivery partners after successful delivery.
 Dashboard: Showing top delivery partners based on the number of deliveries and ratings.
